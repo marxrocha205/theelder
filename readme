@@ -1,0 +1,31 @@
+# The Mine Scrolls : teste
+
+Um jogo de plataforma 2D simples criado com Python e a biblioteca Pygame Zero.
+
+## Descrição
+
+Controle um personagem em um cenário de plataforma, desvie ou derrote inimigos, colete um martelo e use-o para atacar. O jogo inclui mecânicas de pulo, dash (corrida rápida) e vidas limitadas.
+
+## Funcionalidades
+
+* Movimentação do jogador (esquerda/direita)
+* Pulo
+* Dash (corrida rápida com efeito visual)
+* Coleta e arremesso de martelo
+* Inimigo simples com patrulha em plataformas
+* Múltiplas plataformas e chão
+* Sistema de vidas
+* Tela de início ("Press Start")
+* Tela de Game Over com opção de reiniciar
+* Música de fundo e efeitos sonoros básicos (requer arquivos)
+
+## Como Jogar
+
+* **Setas Esquerda/Direita:** Mover o personagem
+* **Espaço / Seta Cima:** Pular
+* **Shift Esquerdo / Shift Direito (com Setas):** Dash (correr)
+* **Z:** Arremessar o martelo (se coletado)
+* **ENTER / Espaço (na tela inicial):** Iniciar o jogo
+* **Mouse Esquerdo (na tela Game Over):** Clicar em "Reiniciar"
+
+**Objetivo:** Derrote o inimigo pulando sobre ele ou usando o martelo. Evite ser tocado pelo inimigo ou cair fora da tela.
