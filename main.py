@@ -1,10 +1,8 @@
-# Importa a biblioteca principal do Pygame Zero para rodar o jogo.
+
 import pgzrun
-# Importa funções auxiliares da biblioteca pgzhelper (se usada/necessária).
 from pgzhelper import *
-# Importa a biblioteca 'time' para funções relacionadas a tempo (ex: cooldowns, animações).
 import time
-# REMOVIDO: import pygame
+
 
 # Define a largura da tela do jogo em pixels.
 WIDTH = 800
